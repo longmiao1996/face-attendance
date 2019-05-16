@@ -1,7 +1,7 @@
 # facial
 
 > A Vue.js project
-
+人脸识别
 ## Build Setup
 
 ``` bash
